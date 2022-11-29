@@ -1,7 +1,7 @@
 ### Hello, I'm Nguyen Van Thanh
 
 - 🌱 I am currently a student at the University of Economics - Law, my major is Financial Technology
-- 👯 I am interested in Data Analytics and am trying to become a Senior Data Analyst in the future.
+- 👯 
 
 
 ### Connect with me via:
